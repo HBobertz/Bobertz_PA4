@@ -1,0 +1,5 @@
+face 2
+pizza 1
+potato 2
+george 1
+hand 3
